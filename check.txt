@@ -1,2 +1,3 @@
 check.txt
 bank.txt
+cash.txt
